@@ -1,4 +1,4 @@
-module github.com/Domish4/GoTodo
+module github.com/Domish4/GoHttp
 
 go 1.22.2
 
